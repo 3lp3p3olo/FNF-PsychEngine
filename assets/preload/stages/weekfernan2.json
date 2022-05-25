@@ -1,0 +1,41 @@
+{
+	"storyName": "Vs fernan el fail",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekfernan",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lengua la traba",
+			"fernan",
+			[
+				0,
+				204,
+				102
+			]
+		],
+		[
+			"la concha",
+			"curly",
+			[
+				160,
+				236,
+				114
+			]
+		]
+	],
+	"weekCharacters": [
+		"curly",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekfernan2"
+}
