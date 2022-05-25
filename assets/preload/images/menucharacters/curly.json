@@ -1,0 +1,11 @@
+{
+	
+	"image": "maui",
+	"position": [
+		80,
+		-100
+	],
+	"scale": 0.8,
+	"idle_anim": "spooky dance idle BLACK LINES0",
+	"confirm_anim": "M Dad Idle"
+}

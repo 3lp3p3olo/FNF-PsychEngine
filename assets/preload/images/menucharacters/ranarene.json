@@ -1,0 +1,11 @@
+{
+	
+	"image": "menu_ranarene",
+	"position": [
+		180,
+		50
+	],
+	"scale": 0.8,
+	"idle_anim": "RANA RENE MENU",
+	"confirm_anim": "M Dad Idle"
+}
