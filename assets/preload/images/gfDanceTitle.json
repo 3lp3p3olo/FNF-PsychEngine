@@ -1,10 +1,14 @@
-{	
-	"titlex":-150,
+{
+	
+	"titlex": 200,
 	"titley":-100,
 	"startx":100,
-	"starty":576,
-	"gfx":512,
-	"gfy":40,
-	"backgroundSprite":"",
-	"bpm":102
+	"starty":600,
+	
+	"gfx":500,
+	"gfy":100,
+	"backgroundSprite":"blackbg",
+	"bpm": 80
+	
+	
 }
