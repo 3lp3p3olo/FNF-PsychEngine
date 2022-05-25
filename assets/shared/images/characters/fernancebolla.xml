@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fernancebolla.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FERNAN ANGRY <0000" x="0" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY <0001" x="1035" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY <0002" x="1035" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY <0003" x="2070" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY <0004" x="2070" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY <0005" x="2070" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY <0006" x="2070" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY <0007" x="2070" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY >0000" x="3105" y="0" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY >0001" x="4139" y="0" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY >0002" x="4139" y="0" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY >0003" x="5173" y="0" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY >0004" x="5173" y="0" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY >0005" x="5173" y="0" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY >0006" x="5173" y="0" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY >0007" x="5173" y="0" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY DOWN0000" x="6207" y="0" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY DOWN0001" x="0" y="917" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY DOWN0002" x="0" y="917" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY DOWN0003" x="1035" y="917" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY DOWN0004" x="1035" y="917" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY DOWN0005" x="1035" y="917" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY DOWN0006" x="1035" y="917" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY DOWN0007" x="1035" y="917" width="1035" height="917"/>
+	<SubTexture name="FERNAN ANGRY IDLE0000" x="2070" y="917" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0001" x="2070" y="917" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0002" x="3104" y="917" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0003" x="3104" y="917" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0004" x="4138" y="917" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0005" x="5172" y="917" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0006" x="6206" y="917" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0007" x="0" y="1837" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0008" x="1034" y="1837" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0009" x="1034" y="1837" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0010" x="1034" y="1837" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0011" x="1034" y="1837" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0012" x="1034" y="1837" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY IDLE0013" x="1034" y="1837" width="1034" height="920"/>
+	<SubTexture name="FERNAN ANGRY UP0000" x="2068" y="1837" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY UP0001" x="3102" y="1837" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY UP0002" x="3102" y="1837" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY UP0003" x="4136" y="1837" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY UP0004" x="4136" y="1837" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY UP0005" x="4136" y="1837" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY UP0006" x="4136" y="1837" width="1034" height="917"/>
+	<SubTexture name="FERNAN ANGRY UP0007" x="4136" y="1837" width="1034" height="917"/>
+</TextureAtlas>

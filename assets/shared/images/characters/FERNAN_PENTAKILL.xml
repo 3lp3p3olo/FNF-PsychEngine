@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FERNAN_PENTAKILL.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FERNAN NO LO HAGAS0000" x="0" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0001" x="0" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0002" x="0" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0003" x="0" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0004" x="0" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0005" x="0" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0006" x="0" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0007" x="851" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0008" x="851" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0009" x="1702" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0010" x="2553" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0011" x="2553" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0012" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0013" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0014" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0015" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0016" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0017" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0018" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0019" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0020" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0021" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0022" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0023" x="3404" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0024" x="4255" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0025" x="4255" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0026" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0027" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0028" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0029" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0030" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0031" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0032" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0033" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0034" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0035" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0036" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0037" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0038" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0039" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0040" x="5106" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0041" x="5957" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0042" x="5957" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0043" x="6808" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0044" x="6808" y="0" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0045" x="0" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0046" x="0" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0047" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0048" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0049" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0050" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0051" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0052" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0053" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0054" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0055" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0056" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0057" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0058" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0059" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0060" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0061" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN NO LO HAGAS0062" x="851" y="722" width="851" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0000" x="1702" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0001" x="1702" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0002" x="2518" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0003" x="3334" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0004" x="3334" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0005" x="3334" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0006" x="3334" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0007" x="3334" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0008" x="3334" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL ->0009" x="3334" y="722" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL <-0000" x="4150" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0001" x="4150" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0002" x="4828" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0003" x="5506" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0004" x="5506" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0005" x="5506" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0006" x="5506" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0007" x="5506" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0008" x="5506" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL <-0009" x="5506" y="722" width="678" height="629"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0000" x="6184" y="722" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0001" x="6184" y="722" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0002" x="6865" y="722" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0003" x="0" y="1444" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0004" x="0" y="1444" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0005" x="0" y="1444" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0006" x="0" y="1444" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0007" x="0" y="1444" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0008" x="0" y="1444" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL DOWN0009" x="0" y="1444" width="681" height="608"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0000" x="681" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0001" x="681" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0002" x="1497" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0003" x="1497" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0004" x="2313" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0005" x="3129" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0006" x="3945" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0007" x="3945" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0008" x="4761" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0009" x="4761" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0010" x="5577" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0011" x="5577" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0012" x="5577" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0013" x="5577" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0014" x="5577" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0015" x="5577" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0016" x="5577" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL IDLEE0017" x="5577" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0000" x="6393" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0001" x="6393" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0002" x="7209" y="1444" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0003" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0004" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0005" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0006" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0007" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0008" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0009" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0010" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0011" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0012" x="0" y="2166" width="816" height="722"/>
+	<SubTexture name="FERNAN PENTAKILL UPP0013" x="0" y="2166" width="816" height="722"/>
+</TextureAtlas>

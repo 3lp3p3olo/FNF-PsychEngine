@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="curly.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CRULY FAIL BRUH0000" x="0" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0001" x="0" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0002" x="540" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0003" x="540" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0004" x="1080" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0005" x="1620" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0006" x="1620" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0007" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0008" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0009" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0010" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0011" x="0" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0012" x="0" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0013" x="540" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0014" x="540" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0015" x="1080" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0016" x="1620" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0017" x="1620" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0018" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0019" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0020" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0021" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0022" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0023" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0024" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0025" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0026" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CRULY FAIL BRUH0027" x="2160" y="0" width="540" height="648"/>
+	<SubTexture name="CURLY <0000" x="2700" y="0" width="585" height="649"/>
+	<SubTexture name="CURLY <0001" x="3285" y="0" width="585" height="649"/>
+	<SubTexture name="CURLY <0002" x="3285" y="0" width="585" height="649"/>
+	<SubTexture name="CURLY <0003" x="0" y="649" width="585" height="649"/>
+	<SubTexture name="CURLY <0004" x="0" y="649" width="585" height="649"/>
+	<SubTexture name="CURLY <0005" x="0" y="649" width="585" height="649"/>
+	<SubTexture name="CURLY <0006" x="0" y="649" width="585" height="649"/>
+	<SubTexture name="CURLY <0007" x="0" y="649" width="585" height="649"/>
+	<SubTexture name="CURLY <0008" x="0" y="649" width="585" height="649"/>
+	<SubTexture name="CURLY <0009" x="0" y="649" width="585" height="649"/>
+	<SubTexture name="CURLY <0010" x="0" y="649" width="585" height="649"/>
+	<SubTexture name="CURLY >0000" x="585" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0001" x="1125" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0002" x="1125" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0003" x="1665" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0004" x="1665" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0005" x="1665" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0006" x="1665" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0007" x="1665" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0008" x="1665" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0009" x="1665" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY >0010" x="1665" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0000" x="2205" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0001" x="2205" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0002" x="2745" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0003" x="2745" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0004" x="3285" y="649" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0005" x="0" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0006" x="540" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0007" x="540" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0008" x="1080" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0009" x="1080" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0010" x="1620" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0011" x="1620" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOG IDLE0012" x="1620" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0000" x="2160" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0001" x="2700" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0002" x="2700" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0003" x="3240" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0004" x="3240" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0005" x="3240" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0006" x="3240" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0007" x="3240" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0008" x="3240" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0009" x="3240" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY DOWN0010" x="3240" y="1298" width="540" height="648"/>
+	<SubTexture name="CURLY UP0000" x="0" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0001" x="540" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0002" x="540" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0003" x="1080" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0004" x="1080" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0005" x="1080" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0006" x="1080" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0007" x="1080" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0008" x="1080" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0009" x="1080" y="1946" width="540" height="648"/>
+	<SubTexture name="CURLY UP0010" x="1080" y="1946" width="540" height="648"/>
+</TextureAtlas>
