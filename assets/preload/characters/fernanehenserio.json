@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-20
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FERNAN EHENSERIO <<"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-47
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FERNAN EHENSERIO ABAJO"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-30
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FERNAN EHENSERIO ARRIBA"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-30
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FERNAN EHENSERIO >>"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-40
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FERNAN EHENSERIO IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fernanehenserio",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fernan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

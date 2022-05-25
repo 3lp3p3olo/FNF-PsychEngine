@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-50
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CURLY <"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-50
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CURLY DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-75
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CURLY UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-50
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CURLY >"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-50
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CURLY DOG IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-68
+			],
+			"fps": 24,
+			"anim": "ugh",
+			"indices": [],
+			"name": "CRULY FAIL BRUH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/curly",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "curly",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		236,
+		114
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

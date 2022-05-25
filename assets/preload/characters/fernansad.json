@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-51
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FERNAN SAD <"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-49
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FERNAN SAD DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-59
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FERNAN SAD UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-58
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FERNAN SAD >"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-50
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FERNAN SAD IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fernansad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fernan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

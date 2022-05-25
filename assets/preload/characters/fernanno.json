@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-207,
+				-301
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FERNAN PENTAKILL <-",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-216,
+				-318
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FERNAN PENTAKILL DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-119,
+				-198
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FERNAN PENTAKILL UPP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-118,
+				-190
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FERNAN PENTAKILL ->",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				-210
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "FERNAN PENTAKILL IDLEE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				-201
+			],
+			"loop": false,
+			"anim": "nolohagas",
+			"fps": 24,
+			"name": "FERNAN NO LO HAGAS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				-201
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "FERNAN NO LO HAGAS",
+			"indices": [
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FERNAN_PENTAKILL",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fernan",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		204,
+		0
+	],
+	"camera_position": [
+		-10,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-40
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FERNAN HAPPY <"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-40
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FERNAN HAPPY DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-13
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FERNAN HAPPY UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-60
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FERNAN HAPPY >"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FERNAN HAPPY IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fernansaludo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fernan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

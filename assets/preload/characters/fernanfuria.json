@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				164,
+				-33
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FERNAN FURIA <<",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-37
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FERNAN FURIA DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				227,
+				-33
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FERNAN FURIA UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				-28
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FERNAN FURIA >>",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "FERNAN FURIA IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fernanfuria",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fernan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

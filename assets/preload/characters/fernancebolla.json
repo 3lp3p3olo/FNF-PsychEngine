@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-40
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FERNAN ANGRY <"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-56
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FERNAN ANGRY DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-40
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FERNAN ANGRY UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-43
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FERNAN ANGRY >"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-46
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FERNAN ANGRY IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fernancebolla",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fernan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
